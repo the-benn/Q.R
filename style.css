@@ -10,7 +10,7 @@ body{
 
 div{
     background: #ffff;
-    border-radius: 10px;
+    border-radius: 15px;
     width: 350px;
     margin: 62.5px auto;
     padding: 10px 0;
@@ -19,7 +19,7 @@ div{
 div img{
     width: 300px;
     margin: 20px auto;
-    border-radius: 10px;
+    border-radius: 15px;
 }
 
 div h3{
@@ -29,7 +29,6 @@ div h3{
 }
 
 div p{
-    margin-top: px;
     padding: 5px;
 }
 
@@ -45,6 +44,7 @@ div p{
 footer{
     background: rgba(8, 36, 10, 0.76);
     text-align: center;
+    height: 40px;
     color: #ffff;
 }
 
