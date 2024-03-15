@@ -43,16 +43,6 @@ div p{
     }
 }
 
-@media(min-height: 900px){
-    div{
-        width: 250px;
-        margin: 62.5px auto;
-    }
-    div img{
-        width: 250px;
-    }
-}
-
 
 
 footer{
