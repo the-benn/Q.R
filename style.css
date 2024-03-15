@@ -40,16 +40,15 @@ div p{
 }
 
 
-
 footer{
-    background: skyblue;
+    background: #15a1ff;
     text-align: center;
     color: #ffff;
 }
 
 footer h5{
     font-size: 15px;
-    padding: 5px;
+    padding: 5px 0 10px 0;
 }
 
 footer a{
@@ -58,9 +57,10 @@ footer a{
 }
 
 footer p{
-    color: rgb(111, 209, 216);
-    padding: 5px;
+    color: #ffff;
+    padding: 10px 0 5px 0;
 }
+
 .img{
    padding: 5px 0 0 2px;
 }
