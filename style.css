@@ -59,5 +59,8 @@ footer a{
 
 footer p{
     color: rgb(111, 209, 216);
-    padding: 2px;
+    padding: 5px;
+}
+footer img{
+   padding: 5px 0 0 2px;
 }
